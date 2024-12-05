@@ -1,3 +1,5 @@
+### See [the author's](https://www.suyogjadhav.com/) git repository here: https://github.com/IAmSuyogJadhav/NN-Illumination-Estimation-FPM
+
 # NN-Illumination-Estimation-FPM
 Accompanying code for the paper "Object Detection Neural Network Improves Fourier Ptychographic Reconstruction" ([Paper](https://doi.org/10.1364/OE.409679)).
 
